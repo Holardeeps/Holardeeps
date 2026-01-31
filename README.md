@@ -92,7 +92,7 @@ A frontend application that helps users generate CVs using AI-assisted workflows
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Holardeeps&show_icons=true&hide_title=true)
+![Stats](https://github-states-generator.vercel.app/api?username=Holardeeps&theme=tokyonight&show_icons=true)
 
 ---
 
@@ -100,3 +100,5 @@ A frontend application that helps users generate CVs using AI-assisted workflows
 
 - GitHub: https://github.com/Holardeeps
 - LinkedIn: https://linkedin.com/in/praise-elijah
+- Email: praise.elijah001@gmail.com
+- X: https://x.com/Holardeeps001
