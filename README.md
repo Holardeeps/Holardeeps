@@ -105,4 +105,4 @@ A frontend application that helps users generate CVs using AI-assisted workflows
 
 ---
 
-| > <sub><em>Engineering frontend systems that scale — with clarity, intention, and the right use of AI.</em></sub>
+| > <sub><em>Engineering frontend systems that scale — with clarity, intention, and the right use of modern tools.</em></sub>
