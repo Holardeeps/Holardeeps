@@ -102,3 +102,7 @@ A frontend application that helps users generate CVs using AI-assisted workflows
 - LinkedIn: https://linkedin.com/in/praise-elijah
 - Email: praise.elijah001@gmail.com
 - X: https://x.com/Holardeeps001
+
+---
+
+| > <sub><em>Engineering frontend systems that scale — with clarity, intention, and the right use of AI.</em></sub>
