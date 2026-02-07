@@ -102,6 +102,13 @@ A frontend application that helps users generate CVs using AI-assisted workflows
   - width: 400-1200 (default: 800)
 -->
 
+![GitHub Stats](https://www.githubtimeline.com/api/embed/stats/gt_S3g9O2JkQOkkdzdP?theme=cherry-blossom)
+
+<!-- Optional parameters:
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light)
+  - width: 400-1200 (default: 800)
+-->
+
 ---
 
 ## 📫 Let’s Connect
