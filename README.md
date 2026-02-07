@@ -94,6 +94,14 @@ A frontend application that helps users generate CVs using AI-assisted workflows
 
 ![Stats](https://github-states-generator.vercel.app/api?username=Holardeeps&theme=tokyonight&show_icons=true)
 
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/gt_S3g9O2JkQOkkdzdP?view=active&theme=cherry-blossom)
+
+<!-- Optional parameters:
+  - view: range | first | active (default: range)
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
+  - width: 400-1200 (default: 800)
+-->
+
 ---
 
 ## 📫 Let’s Connect
